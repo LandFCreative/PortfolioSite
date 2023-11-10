@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64mm"
+   height="30mm"
+   viewBox="0 0 64 30"
+   version="1.1"
+   id="svg15942"
+   inkscape:export-filename="LFlogo.jpg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="LFLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15944"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6981895"
+     inkscape:cx="90.095953"
+     inkscape:cy="71.546786"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15939">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18158">
+      <stop
+         style="stop-color:#003434;stop-opacity:0.37110481;"
+         offset="0.05742573"
+         id="stop18154" />
+      <stop
+         style="stop-color:#000e0e;stop-opacity:0.69688386;"
+         offset="0.51782179"
+         id="stop18162" />
+      <stop
+         style="stop-color:#004b4b;stop-opacity:0.28045326;"
+         offset="1"
+         id="stop18156" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18125">
+      <stop
+         style="stop-color:#2f96a1;stop-opacity:1;"
+         offset="0"
+         id="stop18121" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0.77029705"
+         id="stop18123" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18125"
+       id="radialGradient18127"
+       cx="32.017557"
+       cy="15.035008"
+       fx="32.017557"
+       fy="15.035008"
+       r="32.81927"
+       gradientTransform="matrix(1,0,0,0.50153258,0,7.4944615)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18158"
+       id="linearGradient18160"
+       x1="-0.80171269"
+       y1="15.035008"
+       x2="64.836827"
+       y2="15.035008"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.51;fill:url(#linearGradient18160);fill-opacity:1;stroke:url(#radialGradient18127);stroke-width:0.357;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16587"
+       width="65.28154"
+       height="32.562866"
+       x="-0.6232127"
+       y="-1.2464254" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.4256px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ededed;fill-opacity:1;stroke:none;stroke-width:0.410639;stroke-opacity:1"
+       x="17.106272"
+       y="13.179202"
+       id="text10980"
+       transform="scale(0.8660447,1.1546748)"><tspan
+         sodipodi:role="line"
+         id="tspan10978"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:16.4256px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ededed;fill-opacity:1;stroke-width:0.410639"
+         x="17.106272"
+         y="13.179202">LOST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78306px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#f2c200;fill-opacity:1;stroke:#000000;stroke-width:0.278;stroke-dasharray:none;stroke-opacity:0.585586"
+       x="23.525133"
+       y="13.534675"
+       id="text11040"
+       transform="scale(1.0834827,0.92294966)"><tspan
+         sodipodi:role="line"
+         id="tspan11038"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78306px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2c200;fill-opacity:1;stroke:#000000;stroke-width:0.278;stroke-dasharray:none;stroke-opacity:0.585586"
+         x="23.525133"
+         y="13.534675">AND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:20.2767px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#efc000;fill-opacity:1;stroke:none;stroke-width:0.380188;stroke-opacity:1"
+       x="-0.40642229"
+       y="26.136713"
+       id="text10984"
+       transform="scale(0.93541161,1.0690481)"><tspan
+         sodipodi:role="line"
+         id="tspan10982"
+         style="fill:#efc000;fill-opacity:1;stroke-width:0.380188"
+         x="-0.40642229"
+         y="26.136713">FOUND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.4191px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.181;stroke-dasharray:none;stroke-opacity:0.693694"
+       x="19.232979"
+       y="28.485096"
+       id="text11040-5"
+       transform="scale(0.95601317,1.0460107)"><tspan
+         sodipodi:role="line"
+         id="tspan11038-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.4191px;font-family:'Kozuka Gothic Pr6N';-inkscape-font-specification:'Kozuka Gothic Pr6N, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.181;stroke-dasharray:none;stroke-opacity:0.693694"
+         x="19.232979"
+         y="28.485096">CREATIVE</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:0;stroke-width:0.2"
+       id="rect2358"
+       width="63.457626"
+       height="29.966101"
+       x="0.22033866"
+       y="0.22033899" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:0;stroke-width:0.2"
+       id="rect2602"
+       width="64.338982"
+       height="30.406778"
+       x="-0.22033899"
+       y="0" />
+  </g>
+</svg>
