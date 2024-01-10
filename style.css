@@ -95,12 +95,12 @@ li {
     display: row;
     font-family: 'averia serif libre';
     text-transform: uppercase;
-    line-height: 20%;
-    font-size: 1.6em;
+    line-height: 9%;
+    font-size: 3em;
     padding: 1.36em;
     color:rgb(72, 68, 68);
     margin:auto;
-    width: 50%;
+    width: 60%;
     /* border: 2px olive solid; */
 }
 
@@ -113,10 +113,18 @@ li {
     font-weight: 100;
     display: flex;
     flex-direction: column;
-    padding: 1.36em;
+    padding: 2.36em;
     margin: auto;
-    width: 50%;
-}
+    width: 40%;
+    /* border: 2px olive solid; */
+  }
+
+  blockquote {
+    padding: 1em;
+    font-weight: bold;
+    font-family: cursive;
+    margin:auto;
+  }
 
 .containercontact {
     justify-content: center;
