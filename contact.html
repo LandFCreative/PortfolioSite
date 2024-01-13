@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@1;400;600&display=swap" rel="stylesheet">    
     <title>Lost and Found</title>
 </head>
+
 <body class="outercontainer">
     <nav class="navbar">
     <div class="navlogo">
@@ -27,19 +28,39 @@
             <li> <a href="https://www.linkedin.com/in/cdeneschuk/" title="View Linkedin" target="_blank"> <img src ="images/linkedin.png"></a>
             </li> 
             <li> <a href ="contact.html" title="Contact Me"><img src ="images/envelope-solid.svg"></a>
-                </li>            
+            </li>            
         </ul>
     </div>        
     </nav>
 
+
+    <div class="textcontainer">
+        <div class= "titles"> 
+        <h1 id ="title1" class="preview1" onclick="openLightbox1();toSlide(1)">Developer</h1>
+        <h1 id ="title1" class="preview1" onclick="openLightbox();toSlide(1)">Designer</h1>
+        <h1 id ="title1" class="preview1" onclick="openLightbox2();toSlide(1)">Potter</h1>           
+        </div>
+
+        <div class="containercontact">
+            <h2>Christine Deneschuk</h2> 
+            <!-- <p>Canada</p> -->
+            <div class="sameline" >
+                <img src ="images/envelope-solid.svg" width="40px">
+                deneschukc@gmail.com
+            </div>
+ 
+        </div>
+        
+    </div>
+
+
+
 <!-- Developer Modal -->
 <div id="Lightbox1" class="modal">
-       
-    
     <span class="close pointer" onclick="closeLightbox1()">&times;</span>
 
-    <div class="modal-content">
-        <div class="captionContainer1"> 
+<div class="modal-content">
+    <div class="captionContainer1"> 
             <p id ="caption1"> Caption </p>
         </div> 
         <!-- Make images links to webstuff -->
@@ -48,10 +69,10 @@
         <img src="../developer/mountainmove.png" class="image-slideA" alt="Website Design > One page responsive site design for client" /></a>
         </div>
 
-    <div class="slideA"> 
+    <!-- <div class="slideA"> 
         <a href="https://www.premierphysioinvermere.com/" target="_blank">
         <img src="../developer/PTweb.jpg" class="image-slideA" alt="Website Maintenance > update website as needed by client" /></a>
-        </div>
+        </div> -->
 
     <div class="slideA">
         <a href="https://github.com/LandFCreative/todo-mvc-auth-local" target="_blank"> 
@@ -61,7 +82,7 @@
     <div class="slideA">
         <a href="https://github.com/LandFCreative/cartoondog-express-api" target="_blank">
         <img src="../developer/cartoonAPIExpress.png" class="image-slideA" alt="Developer > Cartoon Dog Api > using javascript, MVC, express, MongoDB" /> </a>
-        </div>
+    </div>
     
 <!-- forward and backward -->
      <a class="previous" onclick="changeSlideA(-1)">&#10094;</a>
@@ -73,19 +94,17 @@
        <img src="../developer/mountainmove.png" class="modal-preview1 hover-shadow" onclick="toSlideA(1)" alt="Website Design > full site design">
       </div>
     <div class="col">
-       <img src="../developer/PTweb.jpg" class="modal-preview1 hover-shadow" onclick="toSlideA(2)" alt="Website Maintenance > update website as needed by owner"  />
-        </div>
+       <!-- <img src="../developer/PTweb.jpg" class="modal-preview1 hover-shadow" onclick="toSlideA(2)" alt="Website Maintenance > update website as needed by owner"  />
+        </div> -->
     <div class="col">
         <img src="../developer/TodoMVC.png"  class="modal-preview1 hover-shadow" onclick="toSlideA(3)" alt="Developer > To do List > using javascript, MVC style, express, MongoDB" />
         </div>
     <div class="col">
         <img src="../developer/cartoonAPIExpress.png"  class="modal-preview1 hover-shadow" onclick="toSlideA(4)" alt="Developer > Cartoon Dog API > using javascript, express, MongoDB" />
        </div>
+    </div>
+    </div>
 </div>
-</div>
-</div>
-
-
 
 
 <!-- Design Modal -->
@@ -213,27 +232,15 @@
 </div>
 </div>
 
-
-
     <div class="textcontainer">
         <div class= "titles"> 
         <h1 id ="title1" class="preview1" onclick="openLightbox1();toSlide(1)">Developer</h1>
         <h1 id ="title1" class="preview1" onclick="openLightbox();toSlide(1)">Designer</h1>
-        <h1 id ="title1" class="preview1" onclick="openLightbox2();toSlide(1)">Potter</h1>
-                    
+        <h1 id ="title1" class="preview1" onclick="openLightbox2();toSlide(1)">Potter</h1>        
         </div>
-        <div class="containercontact">
-            <p> Christine Deneschuk
-            </p>
-            <p>Canada</p>
-            <p>deneschukc@gmail.com</p>
-            <p>Or contact me on Instagram and Linkedin.</p>
-        </div>
-        
-    </div>
+ 
     
-    
-    </div>    
+   
 
 
     <script src="main.js"></script>
